@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/Burford.jpg"
+image = "img/portfolio/Burford.thumb.jpg"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "MN1:BEND2"
