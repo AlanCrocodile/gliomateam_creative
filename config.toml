@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2022 Alan Mackay"
   sidebarAbout = [
-    "Chgange 1. The Jones Lab works on High grade Gliomas and DIPG at the Institute of Cancer Research in London"
+    "The Jones Lab works on High grade Gliomas and DIPG at the Institute of Cancer Research in London"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
