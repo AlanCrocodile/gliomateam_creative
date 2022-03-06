@@ -10,5 +10,4 @@ weight = 1
 ![](/img/portfolio/Burford.jpg)
 ###	Description
 The ten-year evolutionary trajectory of a highly recurrent paediatric high grade neuroepithelial tumour with MN1:BEND2 fusion
-
-[MN1:BEND2](https://www.nature.com/articles/s41598-018-19389-9)
+[Scientific Reports](https://www.nature.com/articles/s41598-018-19389-9)
