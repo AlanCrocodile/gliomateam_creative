@@ -7,20 +7,20 @@ title = "Meet the Team"
 
 ![](/img/GliomaTeam.jpg)
 
-Rebecca Rogers
-Dani Chattenton
-Rita Pereira
-Diana Carvalho
-Chris Jones
-Jessica Boult
-Molina Das
-Ketty Kessler
-Sara Temelso
-Haider Tari
-Tom Trooper
-Anna Burford
-Alan Mackay
-SHauna Crampsie
-Elizabet Fernandez
-Julia Cockle
-Matt Clarke
+Rebecca Rogers  
+Dani Chattenton  
+Rita Pereira  
+Diana Carvalho  
+Chris Jones  
+Jessica Boult  
+Molina Das  
+Ketty Kessler  
+Sara Temelso  
+Haider Tari  
+Tom Trooper  
+Anna Burford  
+Alan Mackay  
+SHauna Crampsie  
+Elizabet Fernandez  
+Julia Cockle  
+Matt Clarke  
