@@ -6,7 +6,7 @@ date = "2016-11-05T19:50:47+05:30"
 title = "Latest Research"
 weight = 2
 +++
-Here is a selection of some of the most recent publications from the Glioma Team
+Here is a selection of some of our most recent research
 <!--more-->
 The ten-year evolutionary trajectory of a highly recurrent paediatric high grade neuroepithelial tumour with MN1:BEND2 fusion  
 [Scientific Reports](https://www.nature.com/articles/s41598-018-19389-9)
@@ -14,8 +14,8 @@ The ten-year evolutionary trajectory of a highly recurrent paediatric high grade
 ALK2 inhibitors display beneficial effects in preclinical models of ACVR1 mutant diffuse intrinsic pontine glioma  
 [Communications Biology](https://www.nature.com/articles/s41598-018-19389-9)
 
-Integrated Molecular Meta-Analysis of 1,000 Pediatric High-Grade and Diffuse Intrinsic Pontine Glioma
-https://www.sciencedirect.com/science/article/pii/S1535610817303628
+Integrated Molecular Meta-Analysis of 1,000 Pediatric High-Grade and Diffuse Intrinsic Integrated Molecular Meta-Analysis of 1,000 Pediatric High-Grade and Diffuse Intrinsic Pontine Glioma   
+[Cancer Cell](https://www.sciencedirect.com/science/article/pii/S1535610817303628)
 
 Functional diversity and co-operativity between subclonal populations of paediatric glioblastoma and diffuse intrinsic pontine glioma cells
 https://www.nature.com/articles/s41591-018-0086-7

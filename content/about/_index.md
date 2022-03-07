@@ -6,7 +6,7 @@ title = "Meet the Team"
 #### The current members of the Glioma team
 Rebecca Rogers\
 Dani Chattenton\
-Rita Pereira  
+Rita Pereira - Higher Scientific Officer (promotion)
 Diana Carvalho  
 Chris Jones  
 Jessica Boult  
