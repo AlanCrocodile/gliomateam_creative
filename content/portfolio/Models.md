@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Models"
 draft = false
-weight = 6
+weight = 5
 +++
 <!--more-->
 ![](/img/portfolio/Models.thumb.jpg)

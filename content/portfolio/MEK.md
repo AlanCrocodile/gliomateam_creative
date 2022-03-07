@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "MEK Inhibitors"
 draft = false
-weight = 2
+weight = 1
 +++
 <!--more-->
 ![](/img/portfolio/Izquierdo.png)

@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
 title = "Tumour Heterogeneity"
 draft = false
-weight = 4
+weight = 10
 +++
 <!--more-->
 ![](/img/portfolio/Vinci.jpg)

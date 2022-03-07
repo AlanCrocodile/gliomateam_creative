@@ -4,7 +4,7 @@ image = ""
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Our Funders"
-weight = 2
+weight = 3
 +++
 Our work is supported by many charities 
 <!--more-->
