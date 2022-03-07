@@ -8,6 +8,6 @@ weight = 2
 +++
 <!--more-->
 ![](/img/portfolio/Carvalho.png)
-###	Description
+###	Title
 ALK2 inhibitors display beneficial effects in preclinical models of ACVR1 mutant diffuse intrinsic pontine glioma  
 [Communications Biology](https://www.nature.com/articles/s41598-018-19389-9)
