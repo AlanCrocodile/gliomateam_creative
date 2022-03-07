@@ -9,5 +9,5 @@ weight = 3
 <!--more-->
 ![](/img/portfolio/Mackay_oncoprint.jpg)
 ###	Title
-ALK2 inhibitors display beneficial effects in preclinical models of ACVR1 mutant diffuse intrinsic pontine glioma  
+Integrated Molecular Meta-Analysis of 1,000 Pediatric High-Grade and Diffuse Intrinsic Pontine Glioma   
 [Cancer Cell](https://www.sciencedirect.com/science/article/pii/S1535610817303628)
