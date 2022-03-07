@@ -10,11 +10,11 @@ Rita Pereira - Scientific Officer
 Diana Carvalho - Senior Scientific Officer  
 Chris Jones - Team leader  
 Jessica Boult - Senior Scientific Officer  
-Yura Gabrovska - BioInformatician (background)
-Lynn Bjerke - Senior Scientific Officer (hiding)
+Yura Gabrovska - BioInformatician (background)  
+Lynn Bjerke - Senior Scientific Officer (hiding)  
 Molina Das - pHD student  
 Ketty Kessler - Postdoctoral Training Fellow  
-Valeria Molinari - Higher Scientific Officer (invisible)
+Valeria Molinari - Higher Scientific Officer (invisible)  
 Sara Temelso - Scientific Officer  
 Haider Tari - pHD student  
 Tom Trooper - fictional and inflated  
