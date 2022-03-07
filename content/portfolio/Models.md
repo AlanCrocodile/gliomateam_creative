@@ -7,6 +7,7 @@ draft = false
 weight = 6
 +++
 <!--more-->
+![](/img/portfolio/Models.thumb.jpg)
 ![](/img/portfolio/Models.jpg)
 ###	Title
 Drug screening linked to molecular profiling identifies novel dependencies in patient-derived primary cultures of paediatric high grade glioma and DIPG
