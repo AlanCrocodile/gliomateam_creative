@@ -4,20 +4,20 @@ title = "Meet the Team"
 +++
 ![](/img/GliomaTeam.jpg)
 #### The current members of the Glioma team
-Rebecca Rogers\
-Dani Chattenton\
-Rita Pereira - Higher Scientific Officer (promotion)
-Diana Carvalho  
-Chris Jones  
-Jessica Boult  
-Molina Das  
-Ketty Kessler  
-Sara Temelso  
-Haider Tari  
-Tom Trooper  
-Anna Burford  
-Alan Mackay  
-SHauna Crampsie  
-Elizabet Fernandez  
-Julia Cockle  
-Matt Clarke  
+Rebecca Rogers - Postdoctoral Training Fellow  
+Dani Chattenton - pHD student  
+Rita Pereira - Scientific Officer  
+Diana Carvalho - Senior Scientific Officer  
+Chris Jones - Team leader  
+Jessica Boult - Senior Scientific Officer  
+Molina Das - pHD student  
+Ketty Kessler - Postdoctoral Training Fellow  
+Sara Temelso - Scientific Officer  
+Haider Tari - pHD student  
+Tom Trooper - fictional and inflated  
+Anna Burford - Senior Scientific Officer  
+Alan Mackay - Senior Bioinformatician  
+Shauna Crampsie - pHD student  
+Elisabet Fernandez Potente - Scientific Officer  
+Julia Cockle - Consultant Paediatric Oncologist  
+Matt Clarke - Academic Clinical Lecturer  
